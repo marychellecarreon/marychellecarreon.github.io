@@ -4,7 +4,7 @@ This is the website that I have created to showcase all the knowledge learned du
 
 ### Built with
 
-HTML
-CSS
-Bootstrap
-Javascript
+- HTML
+- CSS
+- Bootstrap
+- Javascript
